@@ -21,7 +21,7 @@ Sebagai seorang Data Analyst PT Sejahtera Bersama, saya ditugaskan untuk memberi
 ### Table master
 Link to :
 ### Visualisasi
-![image](https://github.com/user-attachments/assets/1795295b-307b-4174-bd13-21ba31098332)
+![image](https://github.com/user-attachments/assets/bf0d63c8-4fa1-4ef4-a88a-c22c45b3c720)
 
 Based on the 
 
