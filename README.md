@@ -31,7 +31,7 @@ Big Query - SQL Query
     ON P.Category = PC.CategoryID
 ```
 
-Link to dataset: ...
+Link to dataset: file_bqr.csv 
 ### Visualisasi
 ![image](https://github.com/user-attachments/assets/bf0d63c8-4fa1-4ef4-a88a-c22c45b3c720)
 
